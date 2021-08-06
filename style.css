@@ -1,0 +1,18 @@
+h2 {
+  color: blue;
+}
+.bold {
+  font-weight: bold; /* Жирный текст делает */
+}
+.italic {
+  font-style: italic;
+}
+.underline {
+  text-decoration: underline; /* Подчеркивает текст */
+}
+A {
+  text-decoration: none; /* Убирает подчеркивание для ссылок */
+}
+body {
+  background-color: #f1f1f1;
+}
